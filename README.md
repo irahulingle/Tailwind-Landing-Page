@@ -12,7 +12,7 @@ This project is a simple landing page created using HTML, CSS, and Tailwind CSS.
 
 ## Demo
 
-You can view the live demo of the landing page [here].
+You can view the live demo of the landing page [here](https://tailwindlandingpageirahul.netlify.app/).
 
 ## Technologies Used
 
